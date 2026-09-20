@@ -1,34 +1,39 @@
 body {
-    font-family: arial, sans-serif;
-    font-weight: bold;
-    font-variant: small-caps;
-    font-size: 50px;
-    background-color: #7500C0;
+  padding: 20px;
+  background-color: rgb(176, 22, 193);
+  font-family: Arial, sans-serif;
 }
 
-h1 {
-    color: rgb(0, 0, 0);
-    text-align: center;
+#quizName {
+  max-width: 700px;
+  margin: auto;
+  padding: 20px;
+  background-color: white;
+  text-align: center;
+  border-radius: 30px;
 }
 
-div {
-    color: rgb(255, 255, 255);
-    font-size: 30px;
-    font-family: arial, sans-serif;
-    font-weight: bold;
-    font-style: italic;
+.question-box {
+  margin-top: 20px;
+  padding: 15px;
+  background-color: rgb(213, 147, 214);
+  border-radius: 20px;
+  
 }
 
-.container {
-    display: grid;
-    grid-template-columns: 50% 50%;
-    grid-template-rows: 50% 50%;
-    height: 100vh;
+button {
+  margin: 5px;
+  padding: 10px;
+  background-color: rgb(240, 240, 229);
+  border: none;
+  cursor: pointer;
+  border-radius: 10px;
 }
 
-summary {
-    font-size: 40px;
-    font-family: arial, sans-serif;
-    font-weight: bold;
-    font-style: italic;
+button.correct {
+  background-color: lightgreen;
+}
+
+button.wrong {
+  background-color: lightcoral;
 }

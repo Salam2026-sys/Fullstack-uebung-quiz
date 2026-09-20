@@ -1,0 +1,82 @@
+[
+  {
+    "frage": "What does HTML stand for?",
+    "antworten": {
+      "a": "HyperText Markup Language",
+      "b": "HighText Machine Language"
+    },
+    "korrekt": "a"
+  },
+  {
+    "frage": "What does CSS stand for?",
+    "antworten": {
+      "a": "Cascading Style Sheets",
+      "b": "Computer Style Sheets"
+    },
+    "korrekt": "a"
+  },
+  {
+    "frage": "Which language is used to make a webpage interactive?",
+    "antworten": {
+      "a": "JavaScript",
+      "b": "HTML"
+    },
+    "korrekt": "a"
+  },
+  {
+    "frage": "Which HTML element creates a paragraph?",
+    "antworten": {
+      "a": "<p>",
+      "b": "<paragraph>"
+    },
+    "korrekt": "a"
+  },
+  {
+    "frage": "Which CSS property changes the text color?",
+    "antworten": {
+      "a": "color",
+      "b": "text-color"
+    },
+    "korrekt": "a"
+  },
+  {
+    "frage": "Which symbol starts a single-line comment in JavaScript?",
+    "antworten": {
+      "a": "//",
+      "b": "<!--"
+    },
+    "korrekt": "a"
+  },
+  {
+    "frage": "Which method selects an element by its ID?",
+    "antworten": {
+      "a": "getElementById()",
+      "b": "getElementByName()"
+    },
+    "korrekt": "a"
+  },
+  {
+    "frage": "Which file extension is commonly used for JavaScript files?",
+    "antworten": {
+      "a": ".js",
+      "b": ".java"
+    },
+    "korrekt": "a"
+  },
+  {
+    "frage": "What does JSON stand for?",
+    "antworten": {
+      "a": "JavaScript Object Notation",
+      "b": "Java Source Open Network"
+    },
+    "korrekt": "a"
+  },
+  {
+    "frage": "Which HTML attribute provides alternative text for an image?",
+    "antworten": {
+      "a": "alt",
+      "b": "src"
+    },
+    "korrekt": "a"
+  }
+]
